@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saeed Aldosary</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" style='width:100%;' width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" style='width:100%;' width="320" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 
 
