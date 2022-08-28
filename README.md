@@ -16,3 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/smaldosary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smaldosary" height="30" width="40" /></a>
 </p>
+
+**Programmer (noun): A person who fixed a problem that you don’t know you have, in a way you don’t understand**
