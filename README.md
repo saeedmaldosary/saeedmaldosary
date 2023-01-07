@@ -1,8 +1,3 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Saeed Aldosary</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smaldosary) 
 [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:saeedmaldosary@gmail.com) 
