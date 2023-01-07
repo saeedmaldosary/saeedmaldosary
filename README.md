@@ -1,6 +1,4 @@
-<div style="text-align: center">
-  [![MasterHead](https://miro.medium.com/max/720/0*08Ge7j9DdoWx1KjA.gif)](https://rishavchanda.io)
-</div>
+[![MasterHead](https://miro.medium.com/max/720/0*08Ge7j9DdoWx1KjA.gif)](https://github.com/saeedmaldosary)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smaldosary) 
